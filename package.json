@@ -1,6 +1,6 @@
 {
   "name": "zyx-nodemailer",
-  "version": "0.20.0",
+  "version": "0.20.1",
   "description": "Implements email sending service using nodemailer",
   "main": "index.js",
   "scripts": {
@@ -14,9 +14,9 @@
   "author": "Mike Terry",
   "license": "MIT",
   "dependencies": {
-    "nodemailer": "^7.0.3",
-    "zyx-base": "^0.20.0",
-    "zyx-schema": "^0.20.2",
-    "zyx-system": "^0.20.0"
+    "nodemailer": "^7.0.4",
+    "zyx-base": "^0.20.1",
+    "zyx-schema": "^0.20.3",
+    "zyx-system": "^0.20.1"
   }
 }
