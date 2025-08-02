@@ -1,4 +1,4 @@
-// index.js: keeno-nodemailer
+// index.js: zyx-nodemailer
 
 "use strict";
 

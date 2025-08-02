@@ -1,6 +1,6 @@
 {
   "name": "zyx-nodemailer",
-  "version": "0.20.6",
+  "version": "0.20.7",
   "description": "Implements email sending service using nodemailer",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "nodemailer": "^7.0.4",
-    "zyx-base": "^0.20.16",
+    "zyx-base": "^0.20.18",
     "zyx-schema": "^0.20.5",
     "zyx-system": "^0.20.3"
   }
