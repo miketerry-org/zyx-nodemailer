@@ -5,5 +5,6 @@
 // load all necessary modules
 const createEmailer = require("./lib/createEmailer");
 const closeEmailer = require("./lib/closeEmailer");
+const NodeEmailer = require("./lib/nodeEmailer");
 
-module.exports = { createEmailer, closeEmailer };
+module.exports = { createEmailer, closeEmailer, NodeEmailer };
