@@ -4,6 +4,7 @@
   "description": "Implements email sending service using nodemailer",
   "main": "index.js",
   "scripts": {
+    "dev": "NODE_ENV=dev nodemon test.js --watch .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -14,9 +15,6 @@
   "author": "Mike Terry",
   "license": "MIT",
   "dependencies": {
-    "nodemailer": "^7.0.4",
-    "zyx-base": "^0.20.18",
-    "zyx-schema": "^0.20.5",
-    "zyx-system": "^0.20.3"
+    "nodemailer": "^7.0.4"
   }
 }
