@@ -1,6 +1,6 @@
 {
   "name": "zyx-nodemailer",
-  "version": "0.20.10",
+  "version": "0.20.11",
   "description": "Implements email sending service using nodemailer",
   "main": "index.js",
   "scripts": {
