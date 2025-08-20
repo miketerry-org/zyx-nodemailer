@@ -3,8 +3,6 @@
 "use strict";
 
 // load all necessary modules
-const createEmailer = require("./lib/createEmailer");
-const closeEmailer = require("./lib/closeEmailer");
 const NodeEmailer = require("./lib/nodeEmailer");
 
-module.exports = { createEmailer, closeEmailer, NodeEmailer };
+module.exports = { NodeEmailer };
